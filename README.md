@@ -1,1 +1,1 @@
-# RAG-with-LangChain-OpenAI-ChromaDB
+# RAG with LangChain, OpenAI, ChromaDB
